@@ -1,4 +1,4 @@
-import './assets/css/grid-base.css'
+import '@/assets/css/grid-base.css'
 
 import { createApp } from 'vue'
 import App from './App.vue'
