@@ -13,7 +13,7 @@
   border-radius: 10px;
   background: #e5d2b5;
   font-family: "Josefin Sans", sans-serif;
-  background-image: url("/src/assets/img/huge_home_background.jpg");
+  background-image: url("/img/huge_home_background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;

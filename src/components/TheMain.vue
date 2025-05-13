@@ -1,8 +1,8 @@
 <script setup>
-import HomeView from "@/components/HomeView.vue";
-import RatesView from "@/components/RatesView.vue";
-import TeamView from "@/components/TeamView.vue";
-import TestimonialView from "@/components/TestimonialView.vue";
+import HomeView from "@/components/MainViews/HomeView.vue";
+import RatesView from "@/components/MainViews/RatesView.vue";
+import TeamView from "@/components/MainViews/TeamView.vue";
+import TestimonialView from "@/components/MainViews/TestimonialView.vue";
 
 const props = defineProps({
   thisView: {

@@ -6,7 +6,7 @@
         <div class="testimonials">
           <div class="card card--bg-purple">
             <header class="card__header">
-              <img src="/src/assets/img/image-daniel.jpg" class="card__img" alt="" />
+              <img src="/img/image-daniel.jpg" class="card__img" alt="" />
               <div>
                 <h3>Daniel Clifford</h3>
                 <p>Verified Graduate</p>
@@ -30,7 +30,7 @@
 
           <div class="card card--bg-gray-blue">
             <header class="card__header">
-              <img src="/src/assets/img/image-jonathan.jpg" class="card__img" alt="" />
+              <img src="/img/image-jonathan.jpg" class="card__img" alt="" />
               <div>
                 <h3>Jonathan Walters</h3>
                 <p>Verified Graduate</p>
@@ -47,7 +47,7 @@
           </div>
           <div class="card card--bg-gray-blue">
             <header class="card__header">
-              <img src="/src/assets/img/image-jonathan.jpg" class="card__img" alt="" />
+              <img src="/img/image-jonathan.jpg" class="card__img" alt="" />
               <div>
                 <h3>Jonathan Walters</h3>
                 <p>Verified Graduate</p>
@@ -141,7 +141,7 @@ main {
 .card--bg-purple {
   background: hsl(263, 55%, 52%);
   color: #fff;
-  background-image: url('/src/assets/img/bg-pattern-quotation.svg');
+  background-image: url('/img/bg-pattern-quotation.svg');
   background-repeat: no-repeat;
   background-position: top 10px right 100px;
 }
