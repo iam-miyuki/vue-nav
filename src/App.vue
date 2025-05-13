@@ -6,7 +6,7 @@ import TheNavbar from "@/components/TheNavbar.vue";
 import TheSidebar from "@/components/TheSidebar.vue";
 import { ref } from "vue";
 
-const selectedView = ref("");
+const selectedView = ref("home");
 
 const onClickNavHandler = (v) => {
   selectedView.value = v;
