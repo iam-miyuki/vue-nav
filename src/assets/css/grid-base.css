@@ -79,6 +79,6 @@ ul.mymenu  {
   background-color: #8bc089;
 }
 
-.mymenu .active {
+.mymenu .router-link-active {
   background-color: #4CAF50;
 }
